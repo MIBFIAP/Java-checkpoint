@@ -1,10 +1,19 @@
 // Questão 1
+/*
 let nome;
 if (nome == undefined) {
     document.write("Essa variável é indefinida, ou seja não tem definição.")
 }
+*/
 
-
+// Questão 2
+let num = 10;
+if (num%2 == 0){
+    document.write("Essa divisão é igual a 0")
+}
+else{
+    document.write("Essa divisão não é igual a 0")
+}
 
 
 
