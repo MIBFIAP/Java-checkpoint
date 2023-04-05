@@ -1,3 +1,14 @@
+// Questão 1
+let nome;
+if (nome == undefined) {
+    document.write("Essa variável é indefinida, ou seja não tem definição.")
+}
+
+
+
+
+
+
 //Questão 3
 /*
 let peso =prompt("Digite seu peso em kg: ")
@@ -48,7 +59,7 @@ document.write("Reprovado");
 
 
 
-
+/*
 //Questão 7
 
 let nome = prompt("Digite seu Nome: ")
@@ -64,7 +75,7 @@ document.write("<br>")
 document.write("Você cursa: ", curso)
 document.write("<br>")
 document.write("Você ingressou no ano de: ", ano)
-
+*/
 
 
 
