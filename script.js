@@ -24,7 +24,7 @@ console.log(imc)
 
 //Questao 6
 
-
+/*
 var n1, n2, n3, n4, n5, n6, n7;
 
 n1 = parseFloat(prompt("Informe a primeira nota: "));
@@ -44,13 +44,13 @@ document.write("Aprovado");
 } else {
 document.write("Reprovado");
 }
-
+*/
 
 
 
 
 //Questão 7
-/*
+
 let nome = prompt("Digite seu Nome: ")
 let idade = prompt("Digite sua Idade: ")
 let curso = prompt("Digite seu Curso: ")
@@ -64,7 +64,7 @@ document.write("<br>")
 document.write("Você cursa: ", curso)
 document.write("<br>")
 document.write("Você ingressou no ano de: ", ano)
-*/
+
 
 
 
