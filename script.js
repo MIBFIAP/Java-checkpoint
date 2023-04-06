@@ -7,6 +7,7 @@ if (nome == undefined) {
 */
 
 // Questão 2
+/*
 let num = 10;
 if (num%2 == 0){
     document.write("Essa divisão é igual a 0")
@@ -14,7 +15,7 @@ if (num%2 == 0){
 else{
     document.write("Essa divisão não é igual a 0")
 }
-
+*/
 
 
 
@@ -86,6 +87,9 @@ document.write("<br>")
 document.write("Você ingressou no ano de: ", ano)
 */
 
+// Questão 8
 
+let txt = "O  LUGAR  VIRA TECNOLOGIA"
+document.write(txt.replace("LUGAR", "MUNDO"));
 
 
