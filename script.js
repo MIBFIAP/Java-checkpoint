@@ -88,8 +88,13 @@ document.write("Você ingressou no ano de: ", ano)
 */
 
 // Questão 8
-
+/*
 let txt = "O  LUGAR  VIRA TECNOLOGIA"
-document.write(txt.replace("LUGAR", "MUNDO"));
+console.log(txt.replace("LUGAR", "MUNDO"));
+*/
 
+// Questão 9
 
+let stg = "123.6789"
+let num = parseFloat(stg);
+console.log(num.toFixed(2));
