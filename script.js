@@ -39,8 +39,22 @@ else{
 console.log(imc)
 */
 
+/*
+let idade =prompt("digite sua idade: ")
 
-
+if(idade <= 12){
+    document.write("Você é uma criança.")
+}
+else if (idade <=17){
+    document.write("Você é um adolescente.")
+}
+else if (idade <=60){
+    document.write("Você é um adulto.")
+}
+else{
+    document.write("Você é um idoso.")
+}
+*/
 
 
 //Questao 6
