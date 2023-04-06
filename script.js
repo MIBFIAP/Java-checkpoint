@@ -40,6 +40,9 @@ console.log(imc)
 */
 
 /*
+Questao 4
+
+
 let idade =prompt("digite sua idade: ")
 
 if(idade <= 12){
