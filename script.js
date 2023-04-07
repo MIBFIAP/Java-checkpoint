@@ -59,6 +59,22 @@ else{
 }
 */
 
+//Questao 5
+/*
+
+    let texto = prompt("Digite seu login: ")
+    let senha = prompt("Digite sua senha: ")
+
+let texto01 = "admin"
+let senha01 = 1234
+
+if(texto == texto01 && senha == senha01){
+   document.write("O login foi realizado com sucesso")
+}else{
+    document.write("Ouve uma falha de autenticação.")
+}
+
+*/
 
 //Questao 6
 
